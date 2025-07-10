@@ -1,0 +1,15 @@
+*cache
+
+# Colcon
+build
+install
+log
+
+# Freecad
+*.FCBak
+
+# MkDocs
+site
+
+# Drawio
+*.bkp
