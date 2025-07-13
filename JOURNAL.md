@@ -3,8 +3,17 @@ title: "Omninado Gripper"
 author: "Aarav Gupta"
 description: "Jamming/Universal robot gripper created for the [Omninado](https://github.com/Amronos/omninado) robot, can be used for other usecases."
 created_at: "2025-07-8"
-total_time_spent: 6 hours
+total_time_spent: 11 hours
 ---
+
+## 11th to 12th July 2025: Complete Base
+
+During these two days I completed 3D modelling the base of the gripper which houses the z-axis motor and to which the servo driver is attached.<br>
+I also created the rotational base for the y-axis motor that is attached to the z-axis motor.
+
+![07-12_1](assets/07-12_1.png)
+
+**Total time spent: 5h**
 
 ## 8th to 10th July 2025: Initial Research
 
