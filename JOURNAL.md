@@ -1,10 +1,19 @@
 ---
-title: "Omninado Gripper"
+title: "Omni Arm"
 author: "Aarav Gupta"
-description: "Jamming/Universal robot gripper created for the [Omninado](https://github.com/Amronos/omninado) robot, can be used for other usecases."
+description: "A unviersal robot arm featuring 3 robot grippers (parallel jaw, suction cup, and jamming) and 8 DOFS."
 created_at: "2025-07-8"
-total_time_spent: 18.5 hours
+total_time_spent: 21.5 hours
 ---
+
+## 19th July 2025: Changed the Idea a Bit
+
+Today I decided to change the idea of the project a bit, it will now be called Omni Arm and have 8 DOFs (including 3 for 3 different grippers).<br>
+There will be 3 different grippers: parallel jaw, suction cup, and jamming. The suction cup will be controlled through a vacuum pump, parallel jaw gripper through an [SC09 Servo](https://www.waveshare.com/sc09-servo.htm), and the jamming gripper through a syringe and an [SC09 Servo](https://www.waveshare.com/sc09-servo.htm).<br>
+Close to the grippers there will be 2 [SC09 Servo](https://www.waveshare.com/sc09-servo.htm) one for switching between the grippers (z-axis rotation) and one for x-axis rotation (as before).<br>
+The rest says the same (2 DOFs for rotation on the z-axis and y-axis that will use [SC15 Servos](https://www.waveshare.com/sc15-servo.htm)) except for an additional y-axis DOF in the arm which will use the [SC15 Servo](https://www.waveshare.com/sc15-servo.htm).
+
+**Total time spent: 3h**
 
 ## 13th to 18th July 2025: Complete Y-Axis Housing
 
