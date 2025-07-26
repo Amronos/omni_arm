@@ -3,8 +3,16 @@ title: "Omni Arm"
 author: "Aarav Gupta"
 description: "A unviersal robot arm featuring 3 robot grippers (parallel jaw, suction cup, and jamming) and 8 DOFS."
 created_at: "2025-07-8"
-total_time_spent: 21.5 hours
+total_time_spent: 28.5 hours
 ---
+
+## 19th to 25th July 2025: Complete Y-Axis_2
+
+I spent these days working on the second motor for rotation on the y-axis.<br>
+I had to many times measure the servo motor's dimensions, check how everything appeared in the assembly, and according fix things in my model.<br>
+I have gotten better at designing for these servo motors, and so I am thinking of updating the design for the first y-axis motor.
+
+**Total time spent: 7h**
 
 ## 19th July 2025: Changed the Idea a Bit
 
