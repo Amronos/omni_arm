@@ -6,7 +6,13 @@ created_at: "2025-07-8"
 total_time_spent: 33.5 hours
 ---
 
-## 26th July: Complete X-Axis
+## 27th July 2025: Complete X-Axis_2
+
+Today IP completed the housing for the second motor which allows rotation on the z-axis. This one is near the grippers, and is for switching between them.
+
+**Total time spent: 3h**
+
+## 26th July 2025: Complete X-Axis
 
 Today I completed the housing for the motor that allows rotation on the x-axis and spent a few hours trying to figure out how to render my model.
 
