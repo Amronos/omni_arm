@@ -3,8 +3,16 @@ title: "Omni Arm"
 author: "Aarav Gupta"
 description: "A unviersal robot arm featuring 3 robot grippers (parallel jaw, suction cup, and jamming) and 8 DOFS."
 created_at: "2025-07-8"
-total_time_spent: 28.5 hours
+total_time_spent: 33.5 hours
 ---
+
+## 26th July: Complete X-Axis
+
+Today I completed the housing for the motor that allows rotation on the x-axis and spent a few hours trying to figure out how to render my model.
+
+![07-26_1](assets/07-26_1.png)
+
+**Total time spent: 5h**
 
 ## 19th to 25th July 2025: Complete Y-Axis_2
 
