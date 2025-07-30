@@ -1,10 +1,19 @@
 ---
 title: "Omni Arm"
 author: "Aarav Gupta"
-description: "A unviersal robot arm featuring 3 robot grippers (parallel jaw, suction cup, and jamming) and 8 DOFS."
+description: "A unviersal robot arm featuring 3 robot grippers (parallel jaw, suction cup, and jamming) and 9 DOFS."
 created_at: "2025-07-8"
 total_time_spent: 33.5 hours
 ---
+
+## 28th to 29th July 2025: Complete Parallel Gripper
+
+I spent these two days completing the parallel gripper, I used a rack and pinion design for it.
+By moving the arm in assembly, I found that the arm would face difficult picking up objects that are near it, when using the suction cup or jamming gripper. To fix this I have added another DOF on the Y-Axis.
+
+![07-29_1](assets/07-29_1.png)
+
+**Total time spent: 7.5h**
 
 ## 27th July 2025: Complete X-Axis_2
 
