@@ -1,7 +1,13 @@
 "Item","Unit Price","Quantity","Total Price","Links"
-"SC15 Servo",$17.99,4,$53.97,"https://www.waveshare.com/sc15-servo.htm"
-"SC09 Servo",$8.99,4,$35.96,"https://www.waveshare.com/sc09-servo.htm"
+"Waveshare SC15 Servo",$17.99,4,$71.96,"https://www.waveshare.com/sc15-servo.htm"
+"Waveshare SC09 Servo",$8.99,4,$35.96,"https://www.waveshare.com/sc09-servo.htm"
+"Waveshare ESP32 Servo Driver Expansion Board",$15.99,1,$15.99,"https://www.waveshare.com/servo-driver-with-esp32.htm"
+"Dispo Van 20 ml Plastic Syringe",$0.23,1,$0.23,"https://www.amazon.in/DISPO-Plastic-Syringe-Medical-Purpose/dp/B09KS18BMY"
 "Suction Cup Gripper for DIY Robot Arms",$27.85,1,$27.85,"https://thinkrobotics.com/products/suction-cup-gripper-for-diy-robot-arms"
-"M2x9.5 Pan Head Self Tapping Screw",,4,,
-"M2x6.5 Pan Head Self Tapping Screw",,8,,
+"M2x9.5 Pan Head Self Tapping Screw",,10,,
+"M2x6.5 Pan Head Self Tapping Screw",,10,,
 "M3x8 Pan Head Self Tapping Screw",,4,,
+"M3x10 Pan Head Self Tapping Screw",,2,,
+"2x50mm Stainless Steel Round Shaft Rods",,2,,
+"3D Prints",,1,,"https://github.com/Amronos/omni_arm/tree/main/CAD"
+,,,$151.99,

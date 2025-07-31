@@ -3,15 +3,26 @@ title: "Omni Arm"
 author: "Aarav Gupta"
 description: "A unviersal robot arm featuring 3 robot grippers (parallel jaw, suction cup, and jamming) and 9 DOFS."
 created_at: "2025-07-8"
-total_time_spent: 33.5 hours
+total_time_spent: 42 hours
 ---
+
+## 30th to 31st July 2025: Ready for First Test
+
+I spent these two days completing the jamming gripper and making the air control box (houses the syringe, it's servo motor, and electronics for the suction cup). This project is ready to be printed and tested now!<br>
+I haven't made any special mounting for the parts for the suction cup gripper for this first print (I don't know their exact measurements yet), for now they will be hot-glued to the arm / air-control box.
+
+| ![Render of the Arm](assets/journal/07-31_1.png) | ![Air Control Box](assets/journal/07-31_2.png) |
+| :----------------------------------------------: | :--------------------------------------------: |
+|                Render of the Arm                 |                Air Control Box                 |
+
+**Total time spent: 8.5h**
 
 ## 28th to 29th July 2025: Complete Parallel Gripper
 
-I spent these two days completing the parallel gripper, I used a rack and pinion design for it.
+I spent these two days completing the parallel gripper, I used a rack and pinion design for it.<br>
 By moving the arm in assembly, I found that the arm would face difficult picking up objects that are near it, when using the suction cup or jamming gripper. To fix this I have added another DOF on the Y-Axis.
 
-![07-29_1](assets/07-29_1.png)
+![07-29_1](assets/journal/07-29_1.png)
 
 **Total time spent: 7.5h**
 
@@ -25,7 +36,7 @@ Today IP completed the housing for the second motor which allows rotation on the
 
 Today I completed the housing for the motor that allows rotation on the x-axis and spent a few hours trying to figure out how to render my model.
 
-![07-26_1](assets/07-26_1.png)
+![07-26_1](assets/journal/07-26_1.png)
 
 **Total time spent: 5h**
 
@@ -51,7 +62,7 @@ The rest says the same (2 DOFs for rotation on the z-axis and y-axis that will u
 I spent these days reworking/creating the housing for the y-axis motor, considering various shapes and sizes for the design. I ended up going with a simple cubic housing.<br>
 I also researched into what syringe to use and the servo motor controlling it will be placed in the arm. Since there were no small syringes which could offer the volume of air I wanted (~20ml), I decided to create a completely separate assembly for it.
 
-![07-18_1](assets/07-18_1.png)
+![07-18_1](assets/journal/07-18_1.png)
 
 **Total time spent: 7.5h**
 
@@ -60,7 +71,7 @@ I also researched into what syringe to use and the servo motor controlling it wi
 During these two days I completed 3D modelling the base of the gripper which houses the z-axis motor and to which the servo driver is attached.<br>
 I also created the rotational base for the y-axis motor that is attached to the z-axis motor.
 
-![07-12_1](assets/07-12_1.png)
+![07-12_1](assets/journal/07-12_1.png)
 
 **Total time spent: 5h**
 
