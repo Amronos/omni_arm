@@ -25,6 +25,10 @@ This robot arm does all of that, making it perfect for my use-cases.
 ![Render](assets/readme/render.png)
 ![Air Control Box](assets/readme/air_control_box.png)
 
+## Wiring Diagram
+
+![Wiring Diagram](assets/readme/wiring_diagram.png)
+
 ## BOM
 
 | Item                                         | Unit Price | Quantity | Total Price | Links                                                                     |

@@ -3,19 +3,20 @@ title: "Omni Arm"
 author: "Aarav Gupta"
 description: "A unviersal robot arm featuring 3 robot grippers (parallel jaw, suction cup, and jamming) and 9 DOFS."
 created_at: "2025-07-8"
-total_time_spent: 42 hours
+total_time_spent: 44 hours
 ---
 
 ## 30th to 31st July 2025: Ready for First Test
 
 I spent these two days completing the jamming gripper and making the air control box (houses the syringe, it's servo motor, and electronics for the suction cup). This project is ready to be printed and tested now!<br>
-I haven't made any special mounting for the parts for the suction cup gripper for this first print (I don't know their exact measurements yet), for now they will be hot-glued to the arm / air-control box.
+I haven't made any special mounting for the parts for the suction cup gripper for this first print (I don't know their exact measurements yet), for now they will be hot-glued to the arm / air-control box.<br>
+I also completed the first basic version of the firmware and made a wiring diagram.
 
 | ![Render of the Arm](assets/journal/07-31_1.png) | ![Air Control Box](assets/journal/07-31_2.png) |
 | :----------------------------------------------: | :--------------------------------------------: |
 |                Render of the Arm                 |                Air Control Box                 |
 
-**Total time spent: 8.5h**
+**Total time spent: 10.5h**
 
 ## 28th to 29th July 2025: Complete Parallel Gripper
 
