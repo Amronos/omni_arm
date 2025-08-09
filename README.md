@@ -24,6 +24,7 @@ This robot arm does all of that, making it perfect for my use-cases.
 
 ![Render](assets/readme/render.png)
 ![Air Control Box](assets/readme/air_control_box.png)
+![PCB 3D View](assets/readme/pcb_3d-view.png)
 
 ## Wiring Diagram
 
@@ -31,17 +32,18 @@ This robot arm does all of that, making it perfect for my use-cases.
 
 ## BOM
 
-| Item                                         | Unit Price | Quantity | Total Price | Links                                                                     |
-| -------------------------------------------- | ---------- | -------- | ----------- | ------------------------------------------------------------------------- |
-| Waveshare SC15 Servo                         | $17.99     | 4        | $71.96      | https://www.waveshare.com/sc15-servo.htm                                  |
-| Waveshare SC09 Servo                         | $8.99      | 4        | $35.96      | https://www.waveshare.com/sc09-servo.htm                                  |
-| Waveshare ESP32 Servo Driver Expansion Board | $15.99     | 1        | $15.99      | https://www.waveshare.com/servo-driver-with-esp32.htm                     |
-| Dispo Van 20 ml Plastic Syringe              | $0.23      | 1        | $0.23       | https://www.amazon.in/DISPO-Plastic-Syringe-Medical-Purpose/dp/B09KS18BMY |
-| Suction Cup Gripper for DIY Robot Arms       | $27.85     | 1        | $27.85      | https://thinkrobotics.com/products/suction-cup-gripper-for-diy-robot-arms |
-| M2x9.5 Pan Head Self Tapping Screw           | —          | 10       | —           | —                                                                         |
-| M2x6.5 Pan Head Self Tapping Screw           | —          | 10       | —           | —                                                                         |
-| M3x8 Pan Head Self Tapping Screw             | —          | 4        | —           | —                                                                         |
-| M3x10 Pan Head Self Tapping Screw            | —          | 2        | —           | —                                                                         |
-| 2x50mm Stainless Steel Round Shaft Rods      | —          | 2        | —           | —                                                                         |
-| 3D Prints                                    | —          | 1        | —           | https://github.com/Amronos/omni_arm/tree/main/CAD                         |
-|                                              |            |          | $151.99     |                                                                           |
+| Item                                    | Unit Price | Quantity | Total Price | Links                                                                     |
+| --------------------------------------- | ---------- | -------- | ----------- | ------------------------------------------------------------------------- |
+| Waveshare SC15 Servo                    | $17.99     | 4        | $71.96      | https://www.waveshare.com/sc15-servo.htm                                  |
+| Waveshare SC09 Servo                    | $8.99      | 4        | $35.96      | https://www.waveshare.com/sc09-servo.htm                                  |
+| PCB                                     | $43.77     | 2        | $43.77      | https://jlpcb.com/                                                        |
+| Xiao ESP32-C3                           | $5.71      | 1        | $5.71       | https://thinkrobotics.com/products/seeed-studio-xiao-esp32c3              |
+| Dispo Van 20 ml Plastic Syringe         | $0.23      | 1        | $0.23       | https://www.amazon.in/DISPO-Plastic-Syringe-Medical-Purpose/dp/B09KS18BMY |
+| Suction Cup Gripper for DIY Robot Arms  | $27.85     | 1        | $27.85      | https://thinkrobotics.com/products/suction-cup-gripper-for-diy-robot-arms |
+| M2x9.5 Pan Head Self Tapping Screw      | —          | 10       | —           | —                                                                         |
+| M2x6.5 Pan Head Self Tapping Screw      | —          | 10       | —           | —                                                                         |
+| M3x8 Pan Head Self Tapping Screw        | —          | 4        | —           | —                                                                         |
+| M3x10 Pan Head Self Tapping Screw       | —          | 2        | —           | —                                                                         |
+| 2x50mm Stainless Steel Round Shaft Rods | —          | 2        | —           | —                                                                         |
+| 3D Prints                               | —          | 1        | —           | https://github.com/Amronos/omni_arm/tree/main/CAD                         |
+|                                         |            |          | $151.99     |                                                                           |

@@ -3,10 +3,23 @@ title: "Omni Arm"
 author: "Aarav Gupta"
 description: "A unviersal robot arm featuring 3 robot grippers (parallel jaw, suction cup, and jamming) and 9 DOFS."
 created_at: "2025-07-8"
-total_time_spent: 44 hours
+total_time_spent: 51 hours
 ---
 
-## 30th to 31st July 2025: Ready for First Test
+## 6th to 8th August 2025: Created a Custom PCB
+
+I still haven't printed the arm, but decided to create a PCB for that so that I can control the suction cup, gripper from the MCU directly, instead of manually operating a switch. (I haven't explicitly mentioned this in the journal before, but this was the case.)<br>
+The PCB uses a Xiao ESP32-C3 and can control serial bus servo motors. Therefore, the Waveshare Servo Driver is no longer needed.<br>
+To create this PCB I first spent some time looking at commercially availabe serial bus servo motor drivers, after taking inspiration from them I started to design my own.<br>
+I then spent some time changing the 3D model of the arm to support the new PCB instead of the previous servo driver, alongside working on the BOM for the PCB and the BOM for the entire project.
+
+| ![3D View](assets/readme/pcb_3d-view.png) | ![Schematic Diagram](PCB/schematic_diagram.png) |
+| :---------------------------------------: | :---------------------------------------------: |
+|                  3D View                  |                Schematic Diagram                |
+
+**Total time spent: 7h**
+
+## 30th to 31st July 2025: Ready for First Print
 
 I spent these two days completing the jamming gripper and making the air control box (houses the syringe, it's servo motor, and electronics for the suction cup). This project is ready to be printed and tested now!<br>
 I haven't made any special mounting for the parts for the suction cup gripper for this first print (I don't know their exact measurements yet), for now they will be hot-glued to the arm / air-control box.<br>
