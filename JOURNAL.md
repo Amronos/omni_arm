@@ -13,7 +13,7 @@ The PCB uses a Xiao ESP32-C3 and can control serial bus servo motors. Therefore,
 To create this PCB I first spent some time looking at commercially availabe serial bus servo motor drivers, after taking inspiration from them I started to design my own.<br>
 I then spent some time changing the 3D model of the arm to support the new PCB instead of the previous servo driver, alongside working on the BOM for the PCB and the BOM for the entire project.
 
-| ![3D View](assets/readme/pcb_3d-view.png) | ![Schematic Diagram](PCB/schematic_diagram.png) |
+| ![3D View](assets/readme/pcb_3d-view.png) | ![Schematic Diagram](PCB/schematic_diagram.svg) |
 | :---------------------------------------: | :---------------------------------------------: |
 |                  3D View                  |                Schematic Diagram                |
 

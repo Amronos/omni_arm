@@ -46,4 +46,4 @@ This robot arm does all of that, making it perfect for my use-cases.
 | M3x10 Pan Head Self Tapping Screw       | —          | 2        | —           | —                                                                         |
 | 2x50mm Stainless Steel Round Shaft Rods | —          | 2        | —           | —                                                                         |
 | 3D Prints                               | —          | 1        | —           | https://github.com/Amronos/omni_arm/tree/main/CAD                         |
-|                                         |            |          | $151.99     |                                                                           |
+|                                         |            |          | $185.48     |                                                                           |
